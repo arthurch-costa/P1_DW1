@@ -1,0 +1,27 @@
+header {
+    font-family: 'Arial'; 
+    text-align: center;
+    font-size: large;
+}
+
+h2 {
+    font-family: 'Arial';
+    text-align: left;
+    font-size: medium;
+}
+
+main {
+    font-family: 'Georgia';
+    font-size: small;
+}
+
+footer {
+    font-family: 'Arial';
+    font-size: small;
+    text-align: center;
+}
+
+button {
+    text-align: right;
+}
+
